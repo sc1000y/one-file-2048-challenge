@@ -7,7 +7,7 @@ So far, there’s no prize, but who knows? There might be some additional rules,
 可能会有些额外规则，但是我没想好，也许本md也会更新，无所谓了。\
 Maybe this file will be updated too, no matter. \
 玩的开心。\
-Have fun playing.\
+Have fun playing.  
 
 
 1.目前某北航同学压缩至1.4k，经测试可正常运行，但是没正式push, any way,祝他好运。\
