@@ -8,3 +8,7 @@ So far, there’s no prize, but who knows? There might be some additional rules,
 Maybe this file will be updated too, no matter. \
 玩的开心。\
 Have fun playing.\
+
+
+1.目前某北航同学压缩至1.4k，经测试可正常运行，但是没正式push, any way,祝他好运。
+1.Some BUAA student compressed it to 1.4k. It runs smoothly after testing, but hasn't been officially pushed yet. Anyway, wish him luck.
